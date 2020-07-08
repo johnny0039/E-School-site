@@ -1,0 +1,182 @@
+.section-area{
+    margin-bottom: 1600px;
+}
+.nav-space{
+    padding: 0px 60px;
+}
+.top-bg-color{
+    background-color: #f9eddb;
+}
+.logo-size{
+    height: 48px;
+    width: 160px;
+}
+.top-text{
+    margin-top: 60px;
+}
+.nav-fonts{
+    font-size: 20px;
+}
+.title-dec{
+    font-family: Arial;
+    font-size: 60px;
+}
+.ayrtl{
+    color: #f8914c;
+}
+.button-dec{
+    border: none;
+    background-color: #20b573;
+    color: white;
+    border-radius: 30px;
+    padding: 0px 30px;
+    transition: .3s ease-in-out ;
+}
+.button-dec:hover{
+    background-color: #8e99ff;
+    box-shadow: 10px 10px 20px #32333b;
+    margin-left: 4px;
+    margin-right: 6px;
+}
+.AS{
+    color: #ff6363;
+}
+.paragraph-dec{
+    padding-top: 30px;
+    font-size: 20px;
+}
+.button-dec2{
+    border: none;
+    background-color: #20b573;
+    color: white;
+    border-radius: 30px;
+    padding: 10px 30px;
+    margin-bottom: 80px;
+    margin-top: 26px;
+    transition: 0.4s ease-in-out;
+}
+.button-dec2:hover{
+    background-color: #8e99ff;
+    box-shadow: 10px 10px 20px #32333b;
+    margin-left: 4px;
+    margin-right: 6px;
+}
+.categories{
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
+.card-pic{
+    height: 83px;
+    width: 80px;
+    margin-top: 20px;
+}
+.card-text-align{
+    margin-top: 5px;
+    text-align: center;
+}
+.card{
+    border: none;
+    background-color: #fdfbf8;
+    border-radius: 15px;
+    margin: 20px;
+}
+.categories-card-size{
+    height: 200px;
+    width: 250px;
+}
+.card-hov{
+    transition: .3s ease-in-out ;
+}
+.card-hov:hover{
+    
+    background-color: white;
+    box-shadow: 10px 10px 40px #ddd;
+}
+.online-courses-title{
+    text-align: center;
+    margin-bottom: 70px;
+    font-size: 30px;
+}
+.online-courses{
+    height: 440px;
+    width: 340px;
+    background-color: white;
+    box-shadow: 10px 10px 40px #ddd;
+    padding-top: 30px;
+}
+.online-course-pic{
+    height: 200px;
+    width: 280px;
+    transition: 0.8s ease-in-out;
+}
+.calendar{
+    
+    height: 20px;
+    width: 20px;
+}
+.people{
+    margin-left: 40px;
+    height: 20px;
+    width: 20px;
+}
+.people-text{
+    
+    margin-right: 14px;
+}
+.button-dec3{
+    border: none;
+    background-color: #20b573;
+    color: white;
+    border-radius: 30px;
+    padding: 10px 30px;
+    margin-bottom: 10px;
+    transition: 0.6s ease-in-out;
+}
+.button-dec3:hover{
+    background-color: #8e99ff;
+    box-shadow: 10px 10px 20px #32333b;
+    margin-left: 4px;
+    margin-right: 6px;
+
+}
+.course-text-align{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.testimonial{
+    width: 180px;
+    height: 180px;
+    margin-left: 35%;
+    margin-top: 10px;
+}
+.testimonial-p{
+    font-size: 26px;
+}
+.footer{
+    background-color: #282530;
+    padding-bottom: 50px;
+}
+.footer-text-p{
+    color: white;
+    font-size: 12px;
+}
+.footer-text{
+    color: white;
+    font-size: 18px;
+}
+.footer-margin{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.text-dec{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.copyright-text-dec{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+
+}
